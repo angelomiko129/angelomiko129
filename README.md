@@ -1,11 +1,15 @@
 <h1 align="center">Hi there👋, I'm Angelo Miko Botabara🙋‍♂️</h1>
 <h3 align="center">I want to be a mobile developer specifically using Kotlin <img src="https://www.svgrepo.com/show/353980/kotlin.svg" height="18" width="20"> and Java<img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height="30" width="30">language</h3>
 
+---
+
 ### <img src="https://www.svgrepo.com/show/355256/spotify.svg" height="16" width="20"> Spotify Playing 🎧
 
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-seven-brown.vercel.app/api/spotify)](https://open.spotify.com/user/yq6q66bd9qel7wwzrexx378ho)
 </div>
+
+---
 
 - 🌱 I’m currently learning **C#, HTML, CSS and JavaScript**
 
