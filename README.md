@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+<p> <img title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a> <img title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40"/></a> <a> <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-plain.svg" alt="html" width="40" height="40"/></a> <a> <img title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain.svg" alt="css" width="40" height="40"/></a></p>
 
 ---
 
