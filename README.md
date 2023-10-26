@@ -2,7 +2,7 @@
 <h1 align="center">Hi there👋, I'm Angelo Miko Botabara🙋‍♂️</h1>
 <h3 align="center">I want to be a mobile developer specifically using Kotlin <img src="https://www.svgrepo.com/show/353980/kotlin.svg" height="18" width="20"> and Java<img src="https://www.svgrepo.com/show/452234/java.svg" height="24" width="30">language</h3><br>
 
-<p align="center">- 🌱 I’m currently learning **C#, HTML, CSS and JavaScript**</p>
+<p align="center">- 🌱 I’m currently learning <b>C#, HTML, CSS and JavaScript</b></p>
 
 ---
 
