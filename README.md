@@ -1,58 +1,29 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi there👋, I'm Angelo Miko Botabara🙋‍♂️</h1>
-<h3 align="center">I want to be a mobile developer specifically using Kotlin <img
-        src="https://www.svgrepo.com/show/353980/kotlin.svg" height="18" width="20"> and Java<img
-        src="https://www.svgrepo.com/show/452234/java.svg" height="24" width="30">language</h3><br>
+---
+### Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{angelomiko129}/count.svg)
 
-<p align="center">- 🌱 I’m currently learning <b>C#, HTML, CSS and JavaScript</b></p>
+### Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/angelomikobotabara11) [![LinkedIn]( 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelo-miko-botabara-4b4b06296) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Taki1316) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22772335) 
+
+### Tools and Languages I'm currently working with:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+
+### Current Status:
+
+-  I'm currently studying at Univesity.
+-  I’m looking for something new to create like projects and portfolio.
+
+### GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=angelomiko129&theme=calm&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelomiko129&theme=calm&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-<p>
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-    <a title="LinkedIn" href="https://linkedin.com/in/angelo-miko-botabara-4b4b06296" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="angelo-miko-botabara-4b4b06296" height="30" width="40" /></a>
-    <a title="StackOverFlow" href="https://stackoverflow.com/users/22772335" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="22772335" height="30" width="40" /></a>
-    <a title="GitHub" href="https://github.com/kou9221" target="blank"><img align="center"
-            src="https://www.svgrepo.com/show/439171/github.svg" alt="Alt Account" height="40" width="40" /></a>
-    </p>
-</div>
-
----
-
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-    <p> <img title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-            width="40" height="40" /></a> <a> <img title="C#"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                alt="c-sharp" width="40" height="40" /></a> <a> <img title="HTML"
-                src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-plain.svg"
-                alt="html" width="40" height="40" /></a> <a> <img title="CSS"
-                src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain.svg"
-                alt="css" width="40" height="40" /></a>
-    </p>
-</div>
-
----
-
-&nbsp;<div align="center">
-    # 📊 GitHub Stats:
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelomiko129&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
-    ![](https://github-readme-stats.vercel.app/api?username=angelomiko129&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br />
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=angelomiko129&theme=omni&hide_border=false)
-</div>
-
----
-
-### <img src="https://www.svgrepo.com/show/355256/spotify.svg" height="15" width="25"> Spotify Playing 🎧
+### Spotify Playing
 
 &nbsp;<div align="center">
     [![Spotify](https://spotify-now-playing-seven-brown.vercel.app/api/spotify)](https://open.spotify.com/user/yq6q66bd9qel7wwzrexx378ho)
 </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
