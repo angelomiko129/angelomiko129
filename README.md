@@ -15,10 +15,8 @@
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelomiko129&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide_progress=true)
 
----
-
-### Spotify Playing
+<!-- ### Spotify Playing
 
 &nbsp;<div align="center">
     [![Spotify](https://spotify-now-playing-seven-brown.vercel.app/api/spotify)](https://open.spotify.com/user/yq6q66bd9qel7wwzrexx378ho)
-</div>
+</div> -->
